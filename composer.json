@@ -4,7 +4,7 @@
     "require": {
         "php": ">=7.2"
     },
-    "license": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "mars chen",
