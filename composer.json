@@ -1,0 +1,20 @@
+{
+    "name": "mars/composer-xin",
+    "description": "this is test for composer first package",
+    "require": {
+        "php": ">=7.2"
+    },
+    "license": "library",
+    "authors": [
+        {
+            "name": "mars chen",
+            "email": "18715546363@163.xom"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Code\\": "src/code"
+        }
+    }
+}
