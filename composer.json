@@ -1,5 +1,5 @@
 {
-    "name": "mars/composer-xin",
+    "name": "mars_chen/composer-xin",
     "description": "this is test for composer first package",
     "require": {
         "php": ">=7.2"
