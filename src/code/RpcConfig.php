@@ -3,6 +3,8 @@
 
 namespace Code;
 
+use Swoft\Rpc\Client\Client as ServiceClient;
+use Swoft\Rpc\Client\Pool as ServicePool;
 /**
  * Class RpcConfig
  * @package Code
