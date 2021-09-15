@@ -14,7 +14,7 @@ use Swoft\Rpc\Client\Annotation\Mapping\Reference;
  * Class RpcService
  * @since 2.0
  * @package Code
- * @Bean ()
+ * @Bean ("RpcService")
  */
 class RpcService
 {
