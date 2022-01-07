@@ -17,8 +17,8 @@ class RpcConfig
         return[
             'user'               => [
                 'class'   => ServiceClient::class,
-                'host'    => '121.4.102.158',
-                'port'    => 18309,
+                'host'    => '101.35.171.57',
+                'port'    => 18307,
                 'setting' => [
                     'timeout'         => 0.5,
                     'connect_timeout' => 12.0,
